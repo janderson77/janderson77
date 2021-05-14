@@ -4,7 +4,7 @@
 
 ---
 
-I'm a software engineer with experience using React, NodeJs, ExpressJs, PostgreSQL, Python, SQLAlchemy and JavaScript to build web apps. My background is in finance and service, but I have a deep love for all things tech. I am endlessly curious, and stubbornly persistant. I thrive when I have a goal with enough structure to keep me focused, but enough creative freedom to make great apps with creative code.
+I'm a software engineer with experience using React, NodeJs, ExpressJs, PostgreSQL, Python, Flask, SQLAlchemy and JavaScript to build web apps. My background is in finance and service, but I have a deep love for all things tech. I am endlessly curious, and stubbornly persistant. I thrive when I have a goal with enough structure to keep me focused, but enough creative freedom to make great apps with creative code.
 
 I'm self motivated and always looking to improve. My curiosity drives me to constantly learn more, and my persistance drives me to dive deep into projects and keep at them until they are functional and elegant (as we all know, no project is ever really done).
 
@@ -23,6 +23,7 @@ I'm self motivated and always looking to improve. My curiosity drives me to cons
 <img alt="React" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/react/react-original.svg" width="50px"></img>
 <img alt="Redux" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/redux/redux-original.svg" width="50px"></img>
 <img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/python/python-original.svg" width="50px"></img>
+<img alt="Flask" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/flask/flask-original-wordmark.svg" width="50px"></img>
 <img alt="SQLAlchemy" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/sqlalchemy/sqlalchemy-original.svg" width="50px"></img>
 <img alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/html5/html5-original.svg" width="50px"></img>
 <img alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/css3/css3-original.svg" width="50px"></img>
