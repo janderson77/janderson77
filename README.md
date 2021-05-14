@@ -32,3 +32,5 @@ I'm self motivated and always looking to improve. My curiosity drives me to cons
 <img alt="Devicon" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/devicon/devicon-original.svg" width="50px"></img>
 
 And more to come.
+
+---
