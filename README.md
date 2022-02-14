@@ -4,7 +4,7 @@
 
 ---
 
-I'm a software engineer with experience using React, NodeJs, ExpressJs, PostgreSQL, Python, Flask, SQLAlchemy and JavaScript to build web apps. My background is in finance and service, but I have a deep love for all things tech. I am endlessly curious, and stubbornly persistant. I thrive when I have a goal with enough structure to keep me focused, but enough creative freedom to make great apps with creative code.
+I'm a software engineer with experience using React, NodeJs, ExpressJs, PostgreSQL, Python, Flask, SQLAlchemy and JavaScript to build web apps. I have a deep love for all things tech. I am endlessly curious, and stubbornly persistant. I thrive when I have a goal with enough structure to keep me focused, but enough creative freedom to make great apps with creative code.
 
 I'm self motivated and always looking to improve. My curiosity drives me to constantly learn more, and my persistance drives me to dive deep into projects and keep at them until they are functional and elegant (as we all know, no project is ever really done).
 
