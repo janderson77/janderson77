@@ -31,7 +31,6 @@ I'm self motivated and always looking to improve. My curiosity drives me to cons
 <img alt="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/bootstrap/bootstrap-plain.svg" width="50px"></img>
 <img alt="jQuery" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/jquery/jquery-original.svg" width="50px"></img>
 <img alt="Github" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/github/github-original.svg" width="50px"></img>
-<img alt="VSCode" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/visualstudio/visualstudio-plain.svg" width="50px"></img>
 <img alt="NPM" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/npm/npm-original-wordmark.svg" width="50px"></img>
 <img alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/git/git-original.svg" width="50px"></img>
 <img alt="Devicon" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/devicon/devicon-original.svg" width="50px"></img>
