@@ -20,20 +20,23 @@ I'm self motivated and always looking to improve. My curiosity drives me to cons
 
 <img alt="NodeJS" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/nodejs/nodejs-original.svg" width="50px"></img>
 <img alt="ExpressJs" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/express/express-original.svg" width="50px"></img>
+<img alt="NPM" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/npm/npm-original-wordmark.svg" width="50px"></img>
+<br />
 <img alt="React" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/react/react-original.svg" width="50px"></img>
 <img alt="Redux" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/redux/redux-original.svg" width="50px"></img>
+<img alt="jQuery" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/jquery/jquery-original.svg" width="50px"></img>
+<br />
 <img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/python/python-original.svg" width="50px"></img>
 <img alt="Flask" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/flask/flask-original-wordmark.svg" width="50px"></img>
 <img alt="SQLAlchemy" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/sqlalchemy/sqlalchemy-original.svg" width="50px"></img>
+<br />
 <img alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/html5/html5-original.svg" width="50px"></img>
 <img alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/css3/css3-original.svg" width="50px"></img>
 <img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/javascript/javascript-original.svg" width="50px"></img>
+<br />
 <img alt="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/bootstrap/bootstrap-plain.svg" width="50px"></img>
-<img alt="jQuery" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/jquery/jquery-original.svg" width="50px"></img>
 <img alt="Github" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/github/github-original.svg" width="50px"></img>
-<img alt="NPM" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/npm/npm-original-wordmark.svg" width="50px"></img>
 <img alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/git/git-original.svg" width="50px"></img>
-<img alt="Devicon" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/devicon/devicon-original.svg" width="50px"></img>
 
 And more to come.
 
